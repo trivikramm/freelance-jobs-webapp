@@ -5,7 +5,7 @@ const Footer = () => {
     <footer id="contact" className="footer-section">
       <div className="contact-info">
         <strong>Contact:</strong> +91-8179048058 (WhatsApp).<br/>
-        Join our community channels below for updates & opportunities.
+        Join our community channels for updates & opportunities.
       </div>
       <div className="social-links">
         <a href="https://t.me/FreelanceJobs0" aria-label="Telegram Channel" target="_blank" rel="noopener noreferrer"><FaTelegramPlane /></a>
