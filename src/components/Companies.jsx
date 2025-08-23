@@ -9,7 +9,7 @@ const companies = [
   languages:['All global & native languages','Regional & emerging dialect coverage','End-to-end linguistic + cultural tasks','Premium language rates'],
   // ...languages replaced below
     tech:['All programming languages','Cloud: Docker, AWS, Terraform','Content & English Editing','STEM: Math, Physics, Chemistry'],
-    process:['Sign up & verify identity','AI interview (15–20 mins)','Matched & start earning'],
+    process:['Sign up & verify identity with Digilocker','AI interview (15–20 mins)','Matched & start earning'],
   },
   {
     id:'mercor',

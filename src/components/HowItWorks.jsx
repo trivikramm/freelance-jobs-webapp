@@ -3,7 +3,7 @@ import { FaUserPlus, FaRobot, FaHandshake } from 'react-icons/fa';
 const steps = [
   {
     icon: <FaUserPlus />,
-    title: 'Sign Up & Verify',
+    title: 'Sign Up & Verify with Digilocker',
     text: 'Create your Alignerr account and complete the identity verification process.',
   },
   {
