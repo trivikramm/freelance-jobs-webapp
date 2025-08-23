@@ -4,7 +4,7 @@ const companies = [
   {
     id:'alignerr',
     name:'Alignerr',
-    pay:'$150 - $200 / hour',
+    pay:'$15 - $100 / hour',
     referral:'https://app.alignerr.com/signin?referral-code=ea824a91-dea0-4ccb-afa4-a2a984330ab1',
   languages:['All global & native languages','Regional & emerging dialect coverage','End-to-end linguistic + cultural tasks','Premium language rates'],
   // ...languages replaced below
@@ -14,7 +14,7 @@ const companies = [
   {
     id:'mercor',
     name:'Mercor',
-    pay:'Up to $200 / hour',
+    pay:'$21 - $100 / hour',
     referral:'https://work.mercor.com/?referralCode=b43ec6ae-a7d6-48c5-93e2-3582f2221fdb',
   languages:['All global & native languages','Regional & emerging dialect coverage','End-to-end linguistic + cultural tasks','High-demand language projects'],
     tech:['All programming languages','Cloud: Docker, AWS, Terraform','Content Writing & Editing','STEM: Math, Physics, Chemistry'],
