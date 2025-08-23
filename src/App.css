@@ -52,7 +52,7 @@ a { color: var(--brand-500); text-decoration: none; transition: color .18s ease,
 a:hover { color: var(--brand-600); text-decoration: none ; }
 
 button, .btn { background: var(--brand-500); color: #fff; padding: .6rem 1rem; border-radius: 8px; }
-button.secondary, .btn.secondary { background: transparent; color: var(--brand-500); border: 1px solid rgba(94,23,235,0.12); }
+button.secondary, .btn.secondary { background: none; color: var(--brand-500); border: 1px solid rgba(94,23,235,0.12); }
 
 input, textarea, select { font-family: inherit; font-size: 1rem; padding: .6rem .75rem; border: 1px solid rgba(0,0,0,0.08); border-radius: 8px; }
 
