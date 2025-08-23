@@ -9,7 +9,7 @@ const steps = [
   {
     icon: <FaRobot />,
     title: 'AI Interview',
-    text: 'Take a 15-20 minute smart assessment to showcase your skills to our AI.',
+    text: 'Take a 15 minute smart assessment to showcase your skills to our AI.',
   },
   {
     icon: <FaHandshake />,
