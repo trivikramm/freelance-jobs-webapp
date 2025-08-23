@@ -876,7 +876,7 @@ img {
 }
 
 @media (max-width: 520px) {
-  .brand-text { display: none; }
+  .brand-text { display: inline; font-size: 1.05rem; font-weight: 600; }
   .logo-image { margin-right: 0; }
 }
 
