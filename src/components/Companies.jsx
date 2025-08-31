@@ -1,16 +1,16 @@
 import { FaBriefcase } from 'react-icons/fa';
 
 const companies = [
-  {
-    id:'alignerr',
-    name:'Freelance 1',
-    pay:'$15 - $100 / hour',
-    referral:'https://app.alignerr.com/signin?referral-code=ea824a91-dea0-4ccb-afa4-a2a984330ab1',
-  languages:['All global & native languages','Regional & emerging dialect coverage','End-to-end linguistic + cultural tasks','Premium language rates'],
-  // ...languages replaced below
-    tech:['All programming languages','Cloud: Docker, AWS, Terraform','Content & English Editing','STEM: Math, Physics, Chemistry'],
-    process:['Sign up & verify identity','AI interview (15 mins)','Matched & start earning'],
-  },
+  // {
+  //   id:'alignerr',
+  //   name:'Freelance 1',
+  //   pay:'$15 - $100 / hour',
+  //   referral:'https://app.alignerr.com/signin?referral-code=ea824a91-dea0-4ccb-afa4-a2a984330ab1',
+  // languages:['All global & native languages','Regional & emerging dialect coverage','End-to-end linguistic + cultural tasks','Premium language rates'],
+  // // ...languages replaced below
+  //   tech:['All programming languages','Cloud: Docker, AWS, Terraform','Content & English Editing','STEM: Math, Physics, Chemistry'],
+  //   process:['Sign up & verify identity','AI interview (15 mins)','Matched & start earning'],
+  // },
   {
     id:'mercor',
     name:'Freelance 2',
