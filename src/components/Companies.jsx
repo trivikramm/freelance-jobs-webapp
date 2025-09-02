@@ -13,7 +13,7 @@ const companies = [
   // },
   {
     id:'mercor',
-    name:'Freelance 2',
+    name:'Freelance 1',
     pay:'$21 - $100 / hour',
     referral:'https://work.mercor.com/?referralCode=b43ec6ae-a7d6-48c5-93e2-3582f2221fdb',
   languages:['All global & native languages','Regional & emerging dialect coverage','End-to-end linguistic + cultural tasks','High-demand language projects'],
